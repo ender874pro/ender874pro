@@ -20,6 +20,8 @@ Especialista en infraestructura crítica con 10 años de trayectoria en el secto
 ### 📂 Portafolio de Proyectos y Laboratorios
 
 * 🛡️ **[unix-linux-sysadmin-scripts](https://github.com):** Scripts de administración, monitoreo de firewall PF y automatización en entornos Unix (Solaris) y Linux.
+* 🛡️ **[unix-linux-sysadmin-scripts](https://github.com):** Scripts de administración, monitoreo de firewall PF y automatización en entornos Unix (Solaris) y Linux.
+
 
 ---
 
