@@ -18,7 +18,12 @@ Especialista en infraestructura crítica con 10 años de trayectoria en el secto
 ---
 
 ### 📂 Portafolio de Proyectos y Laboratorios
-*(Próximamente iré publicando aquí mis repositorios con scripts de administración, configuraciones de Nagios y planes de prueba de rendimiento).*
+
+* 🛡️ **[unix-linux-sysadmin-scripts](https://github.com):** Scripts de administración, monitoreo de firewall PF y automatización en entornos Unix (Solaris) y Linux.
+
+---
+
+### 🌐 Contacto Profesional
 
 * 🔗 **LinkedIn:** [linkedin.com/in/ender-zambrano-4314a143b](https://linkedin.com)
 
